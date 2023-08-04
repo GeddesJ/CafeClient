@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <Reference Include="CafeCommon">
-      <HintPath>..\..\CafeCommon\CafeCommon\bin\Debug\net7.0\CafeCommon.dll</HintPath>
+      <HintPath>..\Lib\CafeCommon.dll</HintPath>
     </Reference>
   </ItemGroup>
 
