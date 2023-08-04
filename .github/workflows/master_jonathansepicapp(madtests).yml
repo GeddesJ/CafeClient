@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'jonathansepicapp'
           slot-name: 'MadTests'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD550D0CDB6A497498C244A1E1933631 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E3206EBD2E441178AA4BB6801D5B3EA }}
           package: .
